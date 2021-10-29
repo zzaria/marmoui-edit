@@ -317,7 +317,7 @@ function runMarmoUI()
 			//Apply tint accordingly
 			if(matched)
 			{
-        if (text.includes('R'))
+        if (text.includes('R') || (!text.includes('R') && !text.includes('P')))
 					elements.highlight(false, green_tint, 0.35);
         else
           elements.highlight(false, yellow_tint, 0.35);
