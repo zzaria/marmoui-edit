@@ -1,10 +1,10 @@
 # marmoui-edit
-Small edits I made to the MarmoUI Userscript 
+Small edits I made to the marmoui-edit Userscript 
 
 # Changes
 
-* Differentiation between public and release test scores
-* Yellow highlighting to denote submissions that pass public but not release tests
+* Some background colors were being overriden by default settings, fixed it by spamming !important
+* Reload FAST!!!!!!!!!!!!!!1111LIYHGKJSDHGFUAIWEYRFHGWOEIUYFG 
 
 # Picture
 
